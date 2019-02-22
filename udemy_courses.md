@@ -21,22 +21,27 @@ http://bit.ly/2tRxNm2
 What's New in C# 7, 7.1, 7.2 and 7.3
 http://bit.ly/2wfTtKh
 
-# Other Programming Courses
+# Design Patterns
 
 Design Patterns in Java
 http://bit.ly/2Bn7PXC 
 
-The Rust Programming Language
-http://bit.ly/2pPg3T5
+Design Patterns in Modern C++
+http://bit.ly/2y3HXzp
+
+Design Patterns in Python
+https://bit.ly/2V5Xp8C
 
 Design Patterns in Swift
 http://bit.ly/2uW1IWQ
 
+# Other Programming Courses
+
+The Rust Programming Language
+http://bit.ly/2pPg3T5
+
 Introduction to Kotlin
 http://bit.ly/2sdauS8
-
-Design Patterns in Modern C++
-http://bit.ly/2y3HXzp
 
 Introduction to C++
 https://bit.ly/2HvoEaR
