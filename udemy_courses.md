@@ -53,4 +53,8 @@ https://bit.ly/2B5iXKZ
 
 A Beginner's Guide to Numerical Methods in MATLAB
 https://bit.ly/2uYYVNF
+
+---
+
+Short link to this page: https://bit.ly/2GJMnC9
           
