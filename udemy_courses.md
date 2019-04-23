@@ -23,6 +23,9 @@ http://bit.ly/2wfTtKh
 
 # Design Patterns
 
+Design Patterns in JavaScript
+https://bit.ly/2vlqHVO
+
 Design Patterns in Java
 http://bit.ly/2Bn7PXC 
 
