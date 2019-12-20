@@ -38,6 +38,9 @@ https://bit.ly/2V5Xp8C
 Design Patterns in Swift
 http://bit.ly/2uW1IWQ
 
+Design Patterns in Go
+https://bit.ly/393a7wW
+
 # Other Programming Courses
 
 The Rust Programming Language
