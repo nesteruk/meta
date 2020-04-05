@@ -22,7 +22,7 @@ http://bit.ly/2p4Qn7M
 Master .NET and C# Unit Testing with NUnit and Moq
 http://bit.ly/2tRxNm2 
 
-What's New in C# 7, 7.1, 7.2 and 7.3
+What's New in C# 7, 7.x and 8
 http://bit.ly/2wfTtKh
 
 # Design Patterns
