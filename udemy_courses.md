@@ -1,3 +1,5 @@
+The following is a list of **discounted** links to my courses.
+
 # .NET
 
 Design Patterns in C# and .NET
