@@ -1,4 +1,6 @@
-The following is a list of **discounted** links to my courses.
+The following is a list of **discounted** links to my Udemy courses.
+
+Just clicking the link applies the relevant discount code.
 
 # .NET
 
