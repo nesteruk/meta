@@ -5,7 +5,7 @@ Just clicking the link applies the relevant discount code.
 # .NET
 
 Design Patterns in C# and .NET
-http://bit.ly/2p3aZww
+https://bit.ly/39WZPO3
 
 Mastering LINQ with C# and .NET
 http://bit.ly/2oorxgw
