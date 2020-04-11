@@ -4,7 +4,7 @@ Just clicking the link applies the relevant discount code.
 
 # .NET
 
-Design Patterns in C# and .NET
+*Design Patterns in C# and .NET*
 https://bit.ly/39WZPO3
 
 Mastering LINQ with C# and .NET
@@ -30,14 +30,14 @@ http://bit.ly/2wfTtKh
 Design Patterns in JavaScript
 https://bit.ly/2vlqHVO
 
-Design Patterns in Java
-http://bit.ly/2Bn7PXC 
+*Design Patterns in Java*
+https://bit.ly/2JSIyea
 
 Design Patterns in Modern C++
 http://bit.ly/2y3HXzp
 
-Design Patterns in Python
-https://bit.ly/2V5Xp8C
+*Design Patterns in Python*
+https://bit.ly/3ecTAc2
 
 Design Patterns in Swift
 http://bit.ly/2uW1IWQ
