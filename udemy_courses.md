@@ -50,8 +50,8 @@ https://bit.ly/393a7wW
 The Rust Programming Language
 http://bit.ly/2pPg3T5
 
-Introduction to Kotlin
-http://bit.ly/2sdauS8
+*Introduction to Kotlin*
+https://bit.ly/3cd4E7c
 
 Introduction to C++
 https://bit.ly/2HvoEaR
