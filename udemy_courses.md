@@ -7,6 +7,9 @@ Just clicking the link applies the relevant discount code.
 *Design Patterns in C# and .NET*
 https://bit.ly/39WZPO3
 
+(Russian Language copy of ↑) *Паттерны проектирования C# и .NET*
+https://bit.ly/3ffkkJw
+
 Mastering LINQ with C# and .NET
 http://bit.ly/2oorxgw
 
