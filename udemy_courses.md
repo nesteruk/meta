@@ -2,6 +2,8 @@ The following is a list of **discounted** links to my Udemy courses.
 
 Just clicking the link applies the relevant discount code.
 
+NEW! Discord server for all of these courses: https://discord.gg/CwYVz3
+
 # .NET
 
 *Design Patterns in C# and .NET*
