@@ -12,6 +12,9 @@ https://bit.ly/39WZPO3
 (Russian Language copy of ↑) *Паттерны проектирования C# и .NET*
 https://bit.ly/3ffkkJw
 
+Advanced Topics in C#
+https://bit.ly/3bwEPjC
+
 Mastering LINQ with C# and .NET
 http://bit.ly/2oorxgw
 
