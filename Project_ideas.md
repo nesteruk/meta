@@ -2,6 +2,15 @@
 
 The following is a non-prioritized list of projects that might be fun to do.
 
+## Solving "Education 2.0"
+
+Schools are barely surviving with current education models. Devices and easy to consume information are stealing students' minds. Some new paradigm must be investigated in order to solve this. I'm 100% sure that the addictiveness of computers (phones, tablets) can be leveraged for purposes of education.
+
+This is solved through:
+
+* Gamification
+* Bots/AI (chat, voice recognition, etc.)
+
 ## Generative Architecture
 
 Software for generative (randomly generated) architectural designs based on specifications. A client specifies parameters for generation, e.g., number of floors, total area, min/max area per room, room functions and owners, and the software creates and optimizes architectural plans.
