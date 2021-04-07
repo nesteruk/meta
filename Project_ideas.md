@@ -2,14 +2,29 @@
 
 The following is a non-prioritized list of projects that might be fun to do.
 
+## 18650 Based Autonomous Ebike Support System
+
+The idea is to create a secondary 18650-based (possibly Vruzend) system to power auxiliary systems on an ebike. Such a battery would support the following systems:
+
+* Better lighting systems, including secondary lights, side lights, full LED lighting, etc.
+* A comprehensive video recording system - multiple cameras
+* A powerful audio speaker
+* Separate power for the phone-based navigation system
+* Power supply for heated grips/clothing
+
+and other uses. Battery must be waterproof and have waterproof connections to everything.
+
 ## Solving "Education 2.0"
 
 Schools are barely surviving with current education models. Devices and easy to consume information are stealing students' minds. Some new paradigm must be investigated in order to solve this. I'm 100% sure that the addictiveness of computers (phones, tablets) can be leveraged for purposes of education.
 
 This is solved through:
 
-* Gamification
+* Gamification (visuals, achievements, league tables to compare yourself with peers)
 * Bots/AI (chat, voice recognition, etc.)
+* (Possibly) AR/VR, i.e. construction of a virtual environment around the student
+
+It is, most likely, solved through the construction of learning environments around the student as interactive 3D models. These models may involve both learning as well as physical activity (similarly to Kinect exercise programs).
 
 ## Generative Architecture
 
@@ -32,6 +47,8 @@ Robotic implementation of block-based construction using aerated concrete or oth
 The goal is to start with a simple loading assistant that is manually operated. The assistant will be a wheeled trolley capable of gripping and lifting a concrete block (20+kg) off the ground. The block shall then be placed manually into a prepared spot.
 
 Further complication would allow blocks to be placed automatically (with glue application) using an automated loader that would pick up and place blocks without human interaction.
+
+Automated construction goes hand in hand with automated design/planning as well as further automation of different processes within the constructed building.
 
 ## Car Detailing (3D Printing, CNC)
 
