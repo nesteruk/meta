@@ -26,6 +26,8 @@ This is solved through:
 
 It is, most likely, solved through the construction of learning environments around the student as interactive 3D models. These models may involve both learning as well as physical activity (similarly to Kinect exercise programs).
 
+Also requires a revision of traditional school programs in order to introduce different sets of subjects. E.g., for children with proclivity for technology, we can teach not just programming but also electronics, automation, 3D modeling/design, etc.
+
 ## Generative Architecture
 
 Software for generative (randomly generated) architectural designs based on specifications. A client specifies parameters for generation, e.g., number of floors, total area, min/max area per room, room functions and owners, and the software creates and optimizes architectural plans.
