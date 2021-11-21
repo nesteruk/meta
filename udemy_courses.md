@@ -47,6 +47,9 @@ http://bit.ly/2y3HXzp
 *Design Patterns in Python*
 https://bit.ly/3ecTAc2
 
+*Шаблоны проектирования на Python (Russian copy of ↑)*
+https://bit.ly/3DIpjyg
+
 Design Patterns in Swift
 http://bit.ly/2uW1IWQ
 
